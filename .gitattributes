@@ -1,2 +1,1 @@
-*.i linguist-vendored
-*.swig linguist-vendored
+*.i linguist-language=C++
